@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/I-love-You/static/css/main.073c9b0a.css",
+    "main.js": "/I-love-You/static/js/main.006c0bbc.js",
+    "static/js/787.ae9eaf09.chunk.js": "/I-love-You/static/js/787.ae9eaf09.chunk.js",
+    "static/media/pic4.png": "/I-love-You/static/media/pic4.744b6ca3aa696bf2efc9.png",
+    "static/media/me.jpg": "/I-love-You/static/media/me.84025a5b281688fda62f.jpg",
+    "static/media/LOVE.jpg": "/I-love-You/static/media/LOVE.f496fa96501a1b212a5b.jpg",
+    "static/media/for.jpg": "/I-love-You/static/media/for.20f35a89fda6947a8d0d.jpg",
+    "static/media/L.svg": "/I-love-You/static/media/L.7b04625adbe5d6a88792bf69c7c20823.svg",
+    "static/media/Love.svg": "/I-love-You/static/media/Love.6753233cec41916e512cb9191ae3a6d1.svg",
+    "index.html": "/I-love-You/index.html",
+    "main.073c9b0a.css.map": "/I-love-You/static/css/main.073c9b0a.css.map",
+    "main.006c0bbc.js.map": "/I-love-You/static/js/main.006c0bbc.js.map",
+    "787.ae9eaf09.chunk.js.map": "/I-love-You/static/js/787.ae9eaf09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.006c0bbc.js"
+  ]
+}
